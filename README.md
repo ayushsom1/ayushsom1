@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
+I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt Butler Technical University_</a>, India.<br>
 
-<!--
-**ayushsom1/ayushsom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Android Development, Web Development and Open Source
+- 📫 How to reach me:
+  - LinkedIn : https://www.linkedin.com/in/ayushsom/
+<p align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushsom1&color=red" /> </p>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+  <td width="50%">
+    <h1>
+      My GitHub Stats
+    </h1>
+  </td>
+  <td width="50%">
+    <img align="center" alt="Harshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayushsom1&show_icons=true&hide_border=true"/>
+  </td>
+</table>
