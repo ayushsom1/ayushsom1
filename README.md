@@ -16,6 +16,10 @@ I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt But
   </a>
 </p>
 
+<p align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushsom1&color=red" /> </p>
+</p>
+
 <table width="100%">
   <td width="50%">
     <h1>
