@@ -22,8 +22,8 @@ I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt But
 
 
 <p align="center">
-  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=ayushsom1&show_icons=true&hide_border=false&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushssom1&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=7">
+  <img alt="Ayush Som's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=ayushsom1&show_icons=true&hide_border=false&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsom1&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=7">
 </p>
 
 
