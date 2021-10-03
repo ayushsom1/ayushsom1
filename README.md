@@ -4,6 +4,7 @@ I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt But
 - 👀 I’m interested in Android Development, Web Development and Open Source
 
 ### Connect with me
+<a href="https://github.com/ayushsom1"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEtIBcu3q7VJw/profile-displayphoto-shrink_400_400/0/1618832063120?e=1639008000&v=beta&t=BBAyEYGAqimDkAmZJLhu9yKYOKsNbxkT8C_5emW1P_c" width="100px;" alt=""/><br /><sub><b>Ayush Som</b></sub></a><br />
 <p>
   <a href="https://twitter.com/AyushSom6">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
@@ -25,3 +26,5 @@ I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt But
   <img alt="Ayush Som's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=ayushsom1&show_icons=true&hide_border=false&theme=tokyonight" />&ensp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsom1&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=7">
 </p>
+
+
