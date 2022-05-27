@@ -27,6 +27,6 @@ I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt But
   <img alt="Ayush Som's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=ayushsom1&show_icons=true&hide_border=false&theme=tokyonight" />&ensp;
   <br />
   <br />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayushsom1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ayushsom1&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
 </p>
 
