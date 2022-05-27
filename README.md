@@ -22,9 +22,10 @@ I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt But
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsom1&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsom1&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=false&hide=html&layout=compact&langs_count=7">
   <br />
-  <img alt="Ayush Som's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=ayushsom1&show_icons=true&hide_border=false&theme=tokyonight" />&ensp;
+  <br />
+  <img alt="Ayush Som's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=ayushsom1&show_icons=true&hide_border=true&theme=dark" />&ensp;
   <br />
   <br />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=ayushsom1&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
