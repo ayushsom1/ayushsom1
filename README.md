@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a 2nd Year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt Butler Technical University_</a>, India.<br>
+I am a Pre-final year IT undergraduate student from <a href="hbtu.ac.in">_Harcourt Butler Technical University_</a>, India.<br>
 
 - 👀 I’m interested in Android Development, Web Development and Open Source
 
