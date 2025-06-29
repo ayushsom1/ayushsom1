@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Software Engineer at **Prossima Gen Technologies** with expertise in full-stack development using the **MERN stack**. Recent BTech graduate in Information Technology from **HBTU Kanpur** (CGPA: 7.5/10) with hands on experience in building scalable applications, AI integration, and automation solutions.
+Software Engineer at **Prossima Gen Technologies** with expertise in full-stack development using the **MERN stack**. Recent BTech graduate in Information Technology from **HBTU Kanpur** with hands on experience in building scalable applications, AI integration, and automation solutions.
 
 Passionate about creating efficient software solutions that solve real-world problems, with a particular interest in **AI/ML applications** and **automation workflows**.
 
